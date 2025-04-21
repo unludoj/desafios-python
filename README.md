@@ -1,6 +1,6 @@
 # Desafios Python com Menu Interativo 
 
-Este projeto contém 6 desafios básicos em Python, acessíveis por um menu interativo no terminal. Ideal para quem está iniciando e quer praticar lógica de programação com ajuda de IA como o GitHub Copilot ou ChatGPT.
+Este projeto contém 6 desafios básicos em Python, acessíveis por um menu interativo no terminal. Ideal para quem está iniciando e quer praticar lógica de programação.
 
 ##  Desafios incluídos:
 1. Concatenar Dados
